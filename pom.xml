@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.farmacia</groupId>
-    <artifactId>FarmiciaSystem</artifactId>
+    <artifactId>spingboot-farmacia</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>FarmiciaSystem</name>
     <description>FarmiciaSystem</description>
