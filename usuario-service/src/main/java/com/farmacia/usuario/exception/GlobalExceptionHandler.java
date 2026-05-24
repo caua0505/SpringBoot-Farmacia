@@ -1,4 +1,4 @@
-package com.farmacia.estoque.exception;
+package com.farmacia.usuario_service.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

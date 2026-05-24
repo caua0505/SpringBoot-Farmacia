@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EstoqueServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EstoqueServiceApplication.class, args);
-    }
 
+        SpringApplication.run(
+                EstoqueServiceApplication.class,
+                args
+        );
+    }
 }
