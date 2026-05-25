@@ -1,6 +1,6 @@
-package com.farmacia.usuario_service.repository;
+package com.farmacia.usuario.repository;
 
-import com.farmacia.usuario_service.entity.Usuario;
+import com.farmacia.usuario.entity.Usuario;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

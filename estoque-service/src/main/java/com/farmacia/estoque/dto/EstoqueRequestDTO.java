@@ -1,4 +1,4 @@
-package com.farmacia.estoque_service.dto;
+package com.farmacia.estoque.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;

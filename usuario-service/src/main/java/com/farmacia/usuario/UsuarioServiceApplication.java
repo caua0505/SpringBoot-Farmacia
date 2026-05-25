@@ -1,4 +1,4 @@
-package com.farmacia.usuario_service;
+package com.farmacia.usuario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

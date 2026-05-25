@@ -1,4 +1,4 @@
-package com.farmacia.usuario_service.exception;
+package com.farmacia.usuario.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package com.farmacia.usuario_service.dto;
+package com.farmacia.usuario.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

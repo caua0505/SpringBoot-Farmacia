@@ -1,8 +1,8 @@
-package com.farmacia.estoque_service.controller;
+package com.farmacia.estoque.controller;
 
-import com.farmacia.estoque_service.dto.EstoqueRequestDTO;
-import com.farmacia.estoque_service.dto.EstoqueResponseDTO;
-import com.farmacia.estoque_service.service.EstoqueService;
+import com.farmacia.estoque.dto.EstoqueRequestDTO;
+import com.farmacia.estoque.dto.EstoqueResponseDTO;
+import com.farmacia.estoque.service.EstoqueService;
 
 import jakarta.validation.Valid;
 

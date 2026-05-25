@@ -1,4 +1,4 @@
-package com.farmacia.estoque_service.dto;
+package com.farmacia.estoque.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,4 +1,4 @@
-package com.farmacia.usuario_service.dto;
+package com.farmacia.usuario.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

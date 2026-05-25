@@ -1,11 +1,11 @@
-package com.farmacia.usuario_service.service;
+package com.farmacia.usuario.service;
 
-import com.farmacia.usuario_service.dto.UsuarioRequestDTO;
-import com.farmacia.usuario_service.dto.UsuarioResponseDTO;
-import com.farmacia.usuario_service.entity.Usuario;
-import com.farmacia.usuario_service.exception.BusinessException;
-import com.farmacia.usuario_service.exception.ResourceNotFoundException;
-import com.farmacia.usuario_service.repository.UsuarioRepository;
+import com.farmacia.usuario.dto.UsuarioRequestDTO;
+import com.farmacia.usuario.dto.UsuarioResponseDTO;
+import com.farmacia.usuario.entity.Usuario;
+import com.farmacia.usuario.exception.BusinessException;
+import com.farmacia.usuario.exception.ResourceNotFoundException;
+import com.farmacia.usuario.repository.UsuarioRepository;
 
 import lombok.RequiredArgsConstructor;
 

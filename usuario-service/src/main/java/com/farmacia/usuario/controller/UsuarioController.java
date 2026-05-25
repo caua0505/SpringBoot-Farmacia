@@ -1,8 +1,8 @@
-package com.farmacia.usuario_service.controller;
+package com.farmacia.usuario.controller;
 
-import com.farmacia.usuario_service.dto.UsuarioRequestDTO;
-import com.farmacia.usuario_service.dto.UsuarioResponseDTO;
-import com.farmacia.usuario_service.service.UsuarioService;
+import com.farmacia.usuario.dto.UsuarioRequestDTO;
+import com.farmacia.usuario.dto.UsuarioResponseDTO;
+import com.farmacia.usuario.service.UsuarioService;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

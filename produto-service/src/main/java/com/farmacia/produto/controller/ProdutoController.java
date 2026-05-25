@@ -28,4 +28,26 @@ public class ProdutoController {
 
         return service.listar();
     }
+
+    @GetMapping("/{id}")
+    public ProdutoResponseDTO buscarPorId(
+            @PathVariable Long id){
+
+        return service.buscarPorId(id);
+    }
+
+    @PutMapping("/{id}")
+    public ProdutoResponseDTO atualizar(
+            @PathVariable Long id,
+            @RequestBody ProdutoRequestDTO dto){
+
+        return service.atualizar(id, dto);
+    }
+
+    @DeleteMapping("/{id}")
+    public void deletar(
+            @PathVariable Long id){
+
+        service.deletar(id);
+    }
 }

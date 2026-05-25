@@ -1,4 +1,4 @@
-package com.farmacia.usuario_service.entity;
+package com.farmacia.usuario.entity;
 
 import jakarta.persistence.*;
 

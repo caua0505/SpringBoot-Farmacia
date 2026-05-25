@@ -1,4 +1,4 @@
-package com.farmacia.estoque_service.entity;
+package com.farmacia.estoque.entity;
 
 import jakarta.persistence.*;
 
